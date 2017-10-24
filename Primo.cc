@@ -1,3 +1,7 @@
+//Programa que ve si un numero es primo o si no lo es
+//Juan Manuel Badillo Serrano
+//Martes 24 de Octubre del 2017
+
 #include <iostream>
 using namespace std;
 int main(){
